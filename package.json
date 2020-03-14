@@ -1,6 +1,9 @@
 {
-  "name": "react-rollup",
+  "name": "react-rollup.js",
+  "version": "1.0.0",
+  "description": "react rollup",
   "main": "src/index.js",
+  "repository": "kre1z0/react-rollup.js",
   "scripts": {
     "serve": "serve -p 4444 ./dist",
     "clean-dist": "rimraf ./dist",
@@ -8,6 +11,15 @@
     "build": "npm run clean-dist && cross-env NODE_ENV=production rollup -c scripts/rollup.config.prod.js",
     "deploy": "gh-pages -d ./dist"
   },
+  "keywords": [
+    "react",
+    "rollup",
+    "rollup template",
+    "react rollup",
+    "rollup boilerplate"
+  ],
+  "author": "dxmz",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.7.5",
     "@babel/core": "^7.7.5",
