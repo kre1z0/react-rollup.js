@@ -1,16 +1,6 @@
-import React from 'react';
-import './style.scss';
+import React from "react";
+import { render } from "react-dom";
 
-export default class ReactDemo extends React.Component {
-    constructor(props) {
-        super(props);
-    }
+import { App } from "./containers/App/App";
 
-    render() {
-        return (
-            <div className={'daxiong'}>
-                我的第一个NPM组件！56
-            </div>
-        );
-    }
-}
+render(<App />, document.getElementById("root"));
