@@ -6,13 +6,13 @@ Author - [https://github.com/dxmz/react-rollup-starter](https://github.com/dxmz/
 A quick-start project template which uses React 16.x + Rollup 1.x for bundling
 
 # Setup  
-1、Clone  
+1. Clone  
 `git clone https://github.com/kre1z0/react-rollup.js.git`  
-2、install dependencies  
+2. install dependencies  
 `npm install`  
-3、Run dev server  
+3. Run dev server  
 `npm start`  
-4、Visit  
+4. Visit  
 `http://localhost:4444`
 
 # CLI
