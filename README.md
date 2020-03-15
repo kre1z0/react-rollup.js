@@ -1,8 +1,9 @@
 ![NPM](https://img.shields.io/npm/l/react-rollup-starter.svg?style=popout) ![npm](https://img.shields.io/npm/v/react-rollup-starter.svg?style=flat-square)
+
+Author - [https://github.com/dxmz/react-rollup-starter](https://github.com/dxmz/react-rollup-starter)
 ## react-rollup-starter
 
 A quick-start project template which uses React 16.x + Rollup 1.x for bundling
-
 
 # Setup  
 1、Clone  
